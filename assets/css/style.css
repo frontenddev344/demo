@@ -15,7 +15,7 @@ html,
 body {
 	overflow-x: hidden !important;
 	width: 100% !important;
-	font-family: 'Barlow', sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 
 h1,
@@ -24,7 +24,7 @@ h3,
 h4,
 h5 {
 	font-weight: 600;
-	font-family: 'Gilda Display', serif;
+
 }
 
 h1 {
