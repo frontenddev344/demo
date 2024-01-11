@@ -171,5 +171,9 @@
 		justify-content: center;
 		margin-top: 20px;
 	}
+	.luxury_hotels_inner h3 {
+		color: var(--main-color);
+		font-size: 191px;
+	}
 
 }
